@@ -1,0 +1,1 @@
+https://dzone.com/articles/configuring-micro-services-spring-cloud-config-ser
